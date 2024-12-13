@@ -1,0 +1,10 @@
+cohere
+jupyterlab
+python-dotenv
+ipywidgets
+chromadb
+pypdf
+langchain
+fastapi
+uvicorn
+python-multipart
